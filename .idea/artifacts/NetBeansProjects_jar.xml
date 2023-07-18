@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NetBeansProjects:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetBeansProjects_jar</output-path>
+    <root id="archive" name="NetBeansProjects.jar">
+      <element id="module-output" name="NetBeansProjects" />
+    </root>
+  </artifact>
+</component>
